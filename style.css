@@ -1,6 +1,6 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("http://2015.phpconference.es/wp-content/uploads/2015/05/barcelona-spain-1.jpg");
       background-size: cover;
       color: white;
     }
@@ -36,5 +36,9 @@
       li {
         padding: 5px;
         display: block;
+      }
+      header {
+        height: 500px;
+      
       }
     }
